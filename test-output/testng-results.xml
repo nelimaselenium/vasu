@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1435" started-at="2019-03-15T15:09:01Z" finished-at="2019-03-15T15:09:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1435" started-at="2019-03-15T15:09:01Z" finished-at="2019-03-15T15:09:03Z">
+      <class name="com.vasu.excel.WritingTest">
+        <test-method status="PASS" signature="write()[pri:0, instance:com.vasu.excel.WritingTest@56f4468b]" name="write" duration-ms="1392" started-at="2019-03-15T20:39:01Z" finished-at="2019-03-15T20:39:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- write -->
+      </class> <!-- com.vasu.excel.WritingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

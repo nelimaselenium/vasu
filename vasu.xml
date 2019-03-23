@@ -1,0 +1,15 @@
+
+<suite name="Vasu">
+  <test name="Selenium">
+    <classes>
+      <class name="com.vasu.testng.BranchCreation"/>
+      
+      <class name="com.vasu.testng.BranchDeletion"/>
+      
+
+
+
+
+    </classes>
+  </test>
+</suite>
